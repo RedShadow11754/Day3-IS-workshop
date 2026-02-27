@@ -34,8 +34,6 @@ pip install langchain-core langchain-huggingface langchain-community langchain-g
 
 ## Output Screenshot
 
-Add your screenshot here:
-
 ![Output Screenshot](images/Screenshot%202026-02-27%20224402.png)
 
 ---
